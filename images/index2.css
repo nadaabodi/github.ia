@@ -1,0 +1,43 @@
+body { 
+margin: 0px;
+padding: 0;
+background-color:#000000;
+font-family:arial; }
+
+
+.main-content{ Background-image:url("background-plane.jpg");
+Background-size: 100%;
+Width: 1270px;
+Height: 650px;
+margin:auto;
+}
+h1 {color: #007db8;}
+p {color: #f1f1f1;}
+#logo{ 
+width:150px;
+height:25px;
+margin-top:30px;
+margin-left:20px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #007db8;
+  color: white;
+  text-align: center;
+}
+.top-menu {float:right;
+margin-top:0%;}
+
+}
+.right-rect { background-color:#007db8; }
+
+} 
+middle-bar-content li {
+width;110px;
+list
+
+
+
